@@ -25,7 +25,7 @@ Update the table (today you need to fill at least the first two columns)
 | Szymik Anna | [aszymik](https://github.com/aszymik) | JAMS | Just Another Metadata Synthesis | Joanna Dabrowska, Michal Stanowski, Stanislaw  Golebiewski |
 | Wiejak Nikola | [nwiejak](https://github.com/nwiejak) | | | Barbara Pawlowska, Oliwia Kozlowska| 
 | Golebiewski Stanislaw | [StanGoleb](https://github.com/StanGoleb) | JAMS | Just Another Metadata Synthesis | Joanna Dabrowska, Michal Stanowski, Stanislaw  Golebiewski |
-| Michal Zgieb | [Michal-Zgieb](https://github.com/Michal-Zgieb) | A/EAPIAW | AlphaFold3/ ESMFold API automating wrapper  | Katarzyna Dubrowska, Veranika Kananovich, Kacper Pietrzyk |
+| Michal Zgieb | [Michal-Zgieb](https://github.com/Michal-Zgieb) | [A/EAPIAW](https://github.com/Michal-Zgieb/ADP_2025)  | AlphaFold3/ ESMFold API automating wrapper  | Katarzyna Dubrowska, Veranika Kananovich, Kacper Pietrzyk |
 | Pawlowska Barbara | [barbarapawlowskaa](https://github.com/barbarapawlowskaa) | | | Oliwia Kozlowska, Nikola Wiejak |
 | Kozaryna Zofia | [zgruba](https://github.com/zgruba) | | | Kornel Natoński, Kobiera Ryszard |
 ### Task 2
