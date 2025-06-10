@@ -25,7 +25,7 @@ Update the table (today you need to fill at least the first two columns)
 | Szymik Anna | [aszymik](https://github.com/aszymik) | [JAMS-Fetch](https://github.com/aszymik/jams-fetch) | Joint Automated Multi-source Sequence Fetcher | Joanna Dabrowska, Michal Stanowski, Stanislaw  Golebiewski |
 | Wiejak Nikola | [nwiejak](https://github.com/nwiejak) | [SNP_explorer](https://github.com/oliwiakozlowska/SNP_explorer)| Barbara Pawlowska, Oliwia Kozlowska| 
 | Golebiewski Stanislaw | [StanGoleb](https://github.com/StanGoleb) | [JAMS-Fetch](https://github.com/aszymik/jams-fetch) | Joint Automated Multi-source Sequence Fetcher | Joanna Dabrowska, Michal Stanowski, Stanislaw  Golebiewski |
-| Michal Zgieb | [Michal-Zgieb](https://github.com/Michal-Zgieb) | A/EAPIAW | AlphaFold3/ ESMFold API automating wrapper  | Katarzyna Dubrowska, Veranika Kananovich, Kacper Pietrzyk |
+| Michal Zgieb | [Michal-Zgieb](https://github.com/Michal-Zgieb) | [A/EAPIAW](https://github.com/Michal-Zgieb/ADP) | AlphaFold3/ ESMFold API automating wrapper  | Katarzyna Dubrowska, Veranika Kananovich, Kacper Pietrzyk |
 | Pawlowska Barbara | [barbarapawlowskaa](https://github.com/barbarapawlowskaa) | [SNP_explorer](https://github.com/oliwiakozlowska/SNP_explorer) | Single Nucleotide Polymorphisms Explorer | Oliwia Kozlowska, Nikola Wiejak |
 | Kozaryna Zofia | [zgruba](https://github.com/zgruba) | [Visualisation Package for Magnetstein](https://github.com/BDomzal/magnetstein/tree/visualization_package/visualization_package) | Visualisation Package for Magnetstein | Kornel Natoński |
 | Ryszard Kobiera | [RyszardKobiera]((https://github.com/RyszardKobiera)) | [ChemClusterPL](https://github.com/makowskiignacy/ChemClusterPL) | | Julia Szkóp, Zuzanna Milczarska, Ignacy Makowski|
